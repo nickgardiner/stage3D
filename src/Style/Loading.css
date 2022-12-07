@@ -1,0 +1,24 @@
+#AppMask div.Loading {
+    padding: 20px;
+    background-color: #272727;
+    border: 1px solid #474747;
+    border-radius: 7px;
+    text-align: center;
+}
+
+#AppMask div.Progress {
+    width: 200px;
+    padding: 3px;
+    margin-top: 10px;
+    border: 1px solid #4f4f4f;
+    border-top-color: black;
+    border-left-color: black;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#AppMask div.ProgressBar {
+    height: 20px;
+    background-color: royalblue;
+    border-radius: 3px;
+}
